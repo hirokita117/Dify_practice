@@ -1,2 +1,2 @@
-# Dify_DSL
-作成したDSLファイルをまとめたリポジトリ
+# Dify_practice
+Dify の練習
